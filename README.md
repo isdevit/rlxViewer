@@ -25,8 +25,8 @@ A Python-based application for real-time remote desktop sharing, chat, and file 
 
 1. Clone this repository:
    ```bash
-   git clone <[repository-url](https://github.com/isdevit/rlxViewer)>
-   cd <rlxViewer>
+   git clone https://github.com/isdevit/rlxViewer
+   cd rlxViewer
    ```
 
 2. Install the required dependencies:
