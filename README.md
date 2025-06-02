@@ -18,7 +18,7 @@ A peer-to-peer remote desktop application built using Python and PyQt6. This too
 
 
 
-### 🔐 Login Screen
+### 🔐 Main Screen
 ![Login Screen](ss/main.png)
 
 ### 🖥️ Remote Desktop Settings View
